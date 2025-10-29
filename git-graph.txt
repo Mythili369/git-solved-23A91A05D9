@@ -1,0 +1,20 @@
+* 33f95f3 (HEAD -> main, origin/main) docs: Added GIT_JOURNEY.md documenting my Git challenge journey
+* 96488b1 docs: Added Phase 4.5 and 4.6 explanations (Revert, Reset, Reflog, and Tagging)
+| * e18bc9f (origin/feature/another-feature, feature/another-feature) Bad commit
+|/  
+* daa1b14 (tag: v1.1.0, tag: v1.0.0) docs: Update README
+* 73fd869 feat: Add new feature
+* af91786 docs: Add FAQ section
+| * b14ffe9 (origin/feature/new-feature, feature/new-feature) feat: Add new feature
+|/  
+*   f1ca1bc merge: Resolve all conflicts between main and conflict-simulator branches
+|\  
+| * d3dd9b2 (instructor/conflict-simulator, conflict-simulator) updating conflict-simulator
+* |   d191337 merge: Resolve all conflicts between main and dev branches
+|\ \  
+| * | 02011a5 (instructor/dev, dev) updating dev
+| |/  
+* | 0312c6f (instructor/main, instructor/HEAD) updating main
+* | fadfd24 Revise README for DevOps Simulator project
+|/  
+* ae630eb Initial commit
